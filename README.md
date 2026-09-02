@@ -19,4 +19,4 @@ This repository contains a collection of PDF notes and resources for computer sc
 - **recursion.pdf**: Notes on Recursion principles and problems.
 
 ## 🚀 How to use
-Feel free to download and read through these PDFs to prepare for technical interviews or brush up on fundamental computer science concepts.
+Feel free to download and read through these PDFs to prepare for technical interviews.
