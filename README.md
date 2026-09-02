@@ -1,6 +1,6 @@
 # Prep for Internship/Placement:
 
-This repository contains a collection of PDF notes and resources for computer science concepts, algorithm preparation, and interview readiness which I used personally. Hope that these become useful to all.
+This repository contains a collection of PDF notes and resources for computer science concepts, algorithm preparation, and interview readiness which I used for intern prep. Hope that these become useful for placement prep(algos + cpp).
 
 **I used C++ as the reference programming language..**
 
