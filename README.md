@@ -1,4 +1,4 @@
-# Interview Prep & Algorithms Notes
+# Prep for Internship/Placement:
 
 This repository contains a collection of PDF notes and resources for computer science concepts, algorithm preparation, and interview readiness which I used personally. Hope that these become useful to all.
 
