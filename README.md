@@ -11,6 +11,7 @@ This repository contains a collection of PDF notes and resources for computer sc
 - **DSA-CLRS notes.pdf**: Notes based on the classic *Introduction to Algorithms* (CLRS) book.
 - **Leetcode common questions.pdf**: A curated list of common LeetCode problems.
 - **ML_notes.pdf**: Machine Learning concepts and notes.
+- **QuantProf questions**: This pdf contains some good quant problems.
 - **Trick questions.pdf**: Common trick questions encountered in interviews.
 - **data structure.pdf**: General notes on Data Structures.
 - **dynamic programming.pdf**: Concepts and problems related to Dynamic Programming.
