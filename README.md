@@ -8,6 +8,7 @@ This repository contains a collection of PDF notes and resources for computer sc
 
 - **Cpp prep.pdf**: C++ programming preparation notes.
 - **SQL Notes.pdf**: SQL basics for OAs and intervews.
+- **Computer Networks.pdf**: Fundamentals on networks.
 - **CS Fundamentals**: For fundamental understanding of Comp Arch, OS, etc..
 - **DSA-CLRS notes.pdf**: Notes based on the classic *Introduction to Algorithms* (CLRS) book.
 - **Leetcode common questions.pdf**: A curated list of common LeetCode problems.
